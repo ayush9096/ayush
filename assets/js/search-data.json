@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I am currently working at Mihup on Deep Learning for Edge Devices. My expertize spans across a wide variety of topics like Embedded Neural Networks, Speech Recognition Systems and Text to Speech Systems. . Previously I did a research internship in I3D Lab, CPDM, IISc Bangalore under Prof. Pradipta Biswas. There I worked on developing a WebCam Based Eye Gaze Tracker on Browsers for users with severe speech and motor impairment, for which I also published a paper at [Springer] (https://link.springer.com/), Comparing Two WebCam-Based Eye Gaze Trackers for Users with Severe Speech and Motor Impairment. . My subject of interest broadly lies in the area of Aritificial Intelligence for Edge Devices, Entrepreneurship. Off the work, I am starting writing technical articles. . | | | . Timeline: . Machine Learning Scientist, Mihup (June, 2019 - Present) | Research Intern, I3D Lab, CPDM, IISc Bangalore (May, 2018 - June, 2018) | .",
           "url": "https://ayush9096.github.io/ayush/about/",
           "relUrl": "/about/",
           "date": ""
@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "Research",
+          "content": "This page enlists the publications that I had been part of. . Publications: . Agarwal A. et al. (2019) Comparing Two Webcam-Based Eye Gaze Trackers for Users with Severe Speech and Motor Impairment. In: Chakrabarti A. (eds) Research into Design for a Connected World. Smart Innovation, Systems and Technologies, vol 135. Springer, Singapore. https://doi.org/10.1007/978-981-13-5977-4_54 . | Abhishek Mukhopadhyay, Pradipta Biswas, Ayush Agarwal, and Imon Mukherjee. 2019. Performance Comparison of Different CNN models for Indian Road Dataset In Proceedings of the 2019 3rd International Conference on Graphics and Signal Processing (ICGSP ‘19). Association for Computing Machinery, New York, NY, USA, 29–33. DOI:https://doi.org/10.1145/3338472.3338480 . | .",
+          "url": "https://ayush9096.github.io/ayush/research/",
+          "relUrl": "/research/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ayush9096.github.io/ayush/robots.txt",
